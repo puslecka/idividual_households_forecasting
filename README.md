@@ -12,4 +12,4 @@ The aim of each script is to transform the data to have the consumption data for
 | 8144689  | 2012-08-17 15:00:0   |    1.942    |
 |   ...    |          ...         |     ...     |
 
-The scripts assume that the data was is downloaded from the respective sources specified in the first cell of each notebook. 
+The scripts assume that the data was downloaded from the respective sources specified in the first cell of each notebook. 
