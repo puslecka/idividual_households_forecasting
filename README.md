@@ -13,3 +13,8 @@ The aim of each script is to transform the data to have the consumption data in 
 |   ...    |          ...         |     ...     |
 
 The scripts assume that the data was downloaded from the respective sources specified in the first cell of each notebook. 
+The data preprocessing scripts require only pandas and numpy and were tested with pandas==2.1.1 and numpy==1.26.0. 
+
+In addition there is included a script containing comparison of performance of LSTM-based model for each dataset on different forecasting horizons. The script assumes that the datasets were previously preprocessed with the abovementioned scripts. 
+
+
